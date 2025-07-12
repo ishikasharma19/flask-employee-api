@@ -1,6 +1,9 @@
 👩‍💼 Employee Management API (Flask + MySQL)
 A Flask-based REST API for managing employee records using SQLAlchemy ORM and MySQL. This project supports adding and retrieving employee data and includes a basic frontend using Jinja templates.
 
+
+
+
 📌 Features
 ✅ Add new employees via POST API
 ✅ Retrieve all employees via GET API
